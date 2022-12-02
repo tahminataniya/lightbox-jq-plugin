@@ -1,0 +1,16 @@
+
+.l_h2{
+
+	margin:20px 0;
+	padding: 20px 0;
+	font-size: 30px;
+	line-height: 30px;
+	color: #ffffff;
+	background-color: #626262;
+    text-align: center;
+    text-transform: capitalize;
+}
+.l_img{
+	margin-top: 20px;
+	text-align: center;
+}
